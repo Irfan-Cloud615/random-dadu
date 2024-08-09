@@ -1,0 +1,20 @@
+.dice {
+  text-align: center;
+  margin-top: 50px;
+}
+.dice img {
+  width: 150px;
+  height: 150px;
+}
+.roll-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 20px;
+  transition: ease-in-out 0.5ms;
+}
+.roll-button:hover {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
